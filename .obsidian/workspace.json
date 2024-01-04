@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,9 +146,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0dafd6e3c08591d1",
+  "active": "d922dfff22e95f86",
   "lastOpenFiles": [
-    "README.md",
-    "test.md"
+    "test.md",
+    "README.md"
   ]
 }
