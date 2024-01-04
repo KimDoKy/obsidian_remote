@@ -146,8 +146,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d922dfff22e95f86",
+  "active": "0dafd6e3c08591d1",
   "lastOpenFiles": [
+    "test.md",
+    "README.md",
     "Books/0.img/클라우드컴퓨팅6.png",
     "Books/0.img/클라우드컴퓨팅5.png",
     "Books/0.img/클라우드컴퓨팅4.png",
@@ -160,11 +162,8 @@
     "Books/0.img/tcp-ip-model.webp",
     "Books/0.img/Security for Linux(Ubuntu).md",
     "Books/0.img",
-    "0.img/네트워크교과서1.jpg",
     "0.img/Security for Linux(Ubuntu).md",
     "0.img",
-    "Books",
-    "test.md",
-    "README.md"
+    "Books"
   ]
 }
