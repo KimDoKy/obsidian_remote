@@ -1,1 +1,1 @@
-obsidian git remote testhbvvgfvgfdgdsdssdfdfftttyghhjuhjsdsadergrefghfhgfg
+obsidian git remote test
